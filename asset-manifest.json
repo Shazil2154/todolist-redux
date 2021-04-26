@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/todolist-redux/static/js/main.b5ce6afc.chunk.js",
+    "main.js.map": "/todolist-redux/static/js/main.b5ce6afc.chunk.js.map",
+    "runtime-main.js": "/todolist-redux/static/js/runtime-main.6bb6f532.js",
+    "runtime-main.js.map": "/todolist-redux/static/js/runtime-main.6bb6f532.js.map",
+    "static/js/2.2bddec5e.chunk.js": "/todolist-redux/static/js/2.2bddec5e.chunk.js",
+    "static/js/2.2bddec5e.chunk.js.map": "/todolist-redux/static/js/2.2bddec5e.chunk.js.map",
+    "index.html": "/todolist-redux/index.html",
+    "precache-manifest.6c318c1876ea89a795568fd387b6a464.js": "/todolist-redux/precache-manifest.6c318c1876ea89a795568fd387b6a464.js",
+    "service-worker.js": "/todolist-redux/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bb6f532.js",
+    "static/js/2.2bddec5e.chunk.js",
+    "static/js/main.b5ce6afc.chunk.js"
+  ]
+}
